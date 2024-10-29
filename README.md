@@ -17,6 +17,23 @@ Recipe Finder is a web application designed to help users discover and save thei
 - **APIs**: Integrates with a recipe API to fetch recipe data.
 - **Routing**: React Router for navigation between pages.
 
+
+## Screenshots
+Here are some screenshots of the Recipe Finder application:
+
+### Home Page
+![Home Page](src/screenshots/home-page.png)
+
+### Search Page
+![Search Page](src/screenshots/search-page.png)
+
+### Recipe Details
+![Recipe Details](src/screenshots/recipe-details.png)
+
+### Favorites List
+![Favorites List](src/screenshots/favorites-list1.png)
+![Favorites List](src/screenshots/favorites-list2.png)
+
 ## Getting Started
 
 ### Prerequisites
